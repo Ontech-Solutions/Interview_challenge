@@ -100,9 +100,10 @@ This challenge assesses your skills in Python, React, Laravel, MySQL, and Postgr
 ## Submission Guidelines
 1. **Duration**: 48 hours to complete the challenge.
 2. **Submission**: Candidates should submit:
-   - Code repository (GitHub/Bitbucket).
+   - Code repository (GitHub).
    - Deployment links (if applicable).
    - Documentation or README detailing their approach, tools used, and how to run the application locally.
+   - Send Notification of completed job to imalemelo@ontech.co.zm
 
 ---
 
